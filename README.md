@@ -21,13 +21,13 @@ What stood out to me was ... I was surprised about...
 ### **Word Clouds:**
 
 **Washington Word Cloud**
-![Washington search results word cloud](../img/washington_word_cloud1-1.png)
+![Washington search results word cloud](./img/washington_word_cloud1-1.png)
 
 **New Mexico Word Cloud**
-![New Mexico search results word cloud](../img/new_mexico_word_cloud2-2.png)
+![New Mexico search results word cloud](./img/new_mexico_word_cloud2-2.png)
 
 **Wisconsin Word Cloud**
-![Wisconsin search results word cloud](../img/wisconsin_word_cloud3-3.png)
+![Wisconsin search results word cloud](./img/wisconsin_word_cloud3-3.png)
 
 ---
 
